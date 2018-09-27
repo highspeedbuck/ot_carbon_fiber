@@ -1,0 +1,22 @@
+.card {
+    maxWidth: 400;
+  }
+
+.media{
+    height: 0;
+    paddingTop: '56.25%';
+  }
+  .actions{
+    display: 'flex';
+  }
+  .expand{
+    transform: 'rotate(0deg)';
+  }
+
+  .expandOpen{
+    transform: 'rotate(180deg)',
+  }
+
+  .avatar{
+    backgroundColor: red;
+  }
